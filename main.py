@@ -51,7 +51,7 @@ def get_submission(user, password):
         },
     )
 
-    if r.status_code != 200:
+    if not r.history:
         print('Failed to login to', user, password)
         return
 
