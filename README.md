@@ -1,6 +1,6 @@
 # cses-crawler
 
-A mini tool to download all accepted submissions from [cses.fi](https://cses.fi). If you find any bugs, feel free to create an issue!
+A mini tool to download all accepted submissions from [cses.fi's problemset](https://cses.fi/problemset/). If you find any bugs, feel free to create an issue!
 
 ## Features
 - Download all accepted submissions from multiple accounts
