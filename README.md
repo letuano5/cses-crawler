@@ -4,7 +4,7 @@ A mini tool to download all accepted submissions from [cses.fi's problemset](htt
 
 ## Features
 - Download all accepted submissions from multiple accounts
-- Automatically create a markdown file containing all problems and links to corresponding submissions, if they exist. You can also check the demo [here](/letuano5)
+- Automatically create a markdown file containing all problems and links to corresponding submissions, if they exist. You can check the demo [here](https://github.com/letuano5/cses-solution)
 
 ![demo](res/demo.png)
 
